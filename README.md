@@ -44,10 +44,10 @@ This project demonstrates:
 
 # Screenshots
 
-<img width="1825" height="717" alt="Screenshot 2026-05-15 125947" src="https://gi<img width="1865" height="902" alt="Screenshot 2026-05-15 130010" src="https://github.com/user-attachments/assets/dcf12ced-a47e-4f2c-961b-d984c16232b5" />
-![Uploading Screenshot 2026-05-15 130010.png…]()
-<img width="1844" height="830" alt="Screenshot 2026-05-15 125955" src="https://github.com/user-attachments/assets/4871b89f-6668-4c19-ba77-75483b60b045" />
-thub.com/user-attachments/assets/bab72ab1-cb12-4a04-b0cf-8ea824d6cf61" />
+<img width="1844" height="830" alt="Screenshot 2026-05-15 125955" src="https://github.com/user-attachments/assets/ead88e7e-c0a9-4b44-9a3f-2c9dd71c4869" />
+<img width="1865" height="902" alt="Screenshot 2026-05-15 130010" src="https://github.com/user-attachments/assets/5cf7c2f9-9003-4325-a817-128776c17291" />
+<img width="1825" height="717" alt="Screenshot 2026-05-15 125947" src="https://github.com/user-attachments/assets/809edea1-740d-4072-baa9-08229ece840d" />
+
 
 
 ---
