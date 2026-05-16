@@ -57,13 +57,13 @@ This project demonstrates:
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+py -m pip install streamlit numpy matplotlib
 ```
 
 Run the simulator:
 
 ```bash
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 ---
